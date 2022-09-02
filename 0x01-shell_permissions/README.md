@@ -18,4 +18,5 @@ a script that adds execution permission to the owner, the group owner and the ot
 
 a script that sets the mode of the file hello to this:
 
+a script that sets the mode of the file hello the same as olleh’s mode.
 
