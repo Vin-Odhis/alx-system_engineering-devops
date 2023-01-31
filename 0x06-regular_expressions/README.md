@@ -1,8 +1,8 @@
 ![image](https://imgs.search.brave.com/dUBA00qNoMAeAhXe4jk1iL2fBjaazWRV-4lCbjj4fe0/rs:fit:791:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/TXZWanpKUjNIVW85/dmdMNWw4ak1nSGFF/YyZwaWQ9QXBp)
 
-0x06. Regular expression.
 
-Regex DevOps.
+
+
 
 Tasks.
 0.Requirements:
@@ -56,4 +56,3 @@ Your script should output: [SENDER],[RECEIVER],[FLAGS]
 The sender phone number or name (including country code if present)
 The receiver phone number or name (including country code if present)
 The flags that were used
-
